@@ -3,7 +3,7 @@ package baekjoon.arithmetic;
 import java.util.Scanner;
 
 public class Q10869_main {
-	// ÀÔÃâ·Â°ú »çÄ¢¿¬»ê_»çÄ¢¿¬»ê
+	// ìž…ì¶œë ¥ê³¼ ì‚¬ì¹™ì—°ì‚°_ì‚¬ì¹™ì—°ì‚°
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();

@@ -2,14 +2,14 @@ package baekjoon.arithmetic;
 
 public class Q10718_main {
 
-	// ÀÔÃâ·Â°ú »çÄ¢¿¬»ê_We love Kriii
+	// ìž…ì¶œë ¥ê³¼ ì‚¬ì¹™ì—°ì‚°_We love Kriii
 	public static void main(String[] args) {
-		System.out.println("°­ÇÑÄ£±¸ ´ëÇÑÀ°±º");
-		System.out.println("°­ÇÑÄ£±¸ ´ëÇÑÀ°±º");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½Ä£ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½Ä£ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 		
 		/*
 		 * for(int i=0; i<2; i++) {
-		 *  System.out.println("°­ÇÑÄ£±¸ ´ëÇÑÀ°±º"); 
+		 *  System.out.println("ï¿½ï¿½ï¿½ï¿½Ä£ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"); 
 		 * }
 		 */
 	}

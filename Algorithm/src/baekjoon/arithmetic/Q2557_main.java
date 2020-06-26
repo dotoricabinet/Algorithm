@@ -2,7 +2,7 @@ package baekjoon.arithmetic;
 
 public class Q2557_main {
 
-	// ÀÔÃâ·Â°ú »çÄ¢¿¬»ê_Hello World
+	// ìž…ì¶œë ¥ê³¼ ì‚¬ì¹™ì—°ì‚°_Hello World
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 	}

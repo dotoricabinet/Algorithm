@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Q2588_main {
 
-	// ÀÔÃâ·Â°ú »çÄ¢¿¬»ê_°ö¼À
+	// ìž…ì¶œë ¥ê³¼ ì‚¬ì¹™ì—°ì‚°_ê³±ì…ˆ
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int A = sc.nextInt();

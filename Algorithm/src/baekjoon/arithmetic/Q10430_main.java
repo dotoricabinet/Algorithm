@@ -4,18 +4,18 @@ import java.util.Scanner;
 
 public class Q10430_main {
 	public static void main(String[] args) {
-		// ÀÔÃâ·Â°ú »çÄ¢¿¬»ê_³ª¸ÓÁö
+		// ìž…ì¶œë ¥ê³¼ ì‚¬ì¹™ì—°ì‚°_ë‚˜ë¨¸ì§€
 		Scanner sc = new Scanner(System.in);
 		int A = sc.nextInt();
 		int B = sc.nextInt();
 		int C = sc.nextInt();
-		// Ãâ·Â1
+		// ì¶œë ¥1
 		System.out.println((A+B)%C);
-		// Ãâ·Â2
+		// ì¶œë ¥2
 		System.out.println(((A%C)+(B%C))%C);
-		// Ãâ·Â3
+		// ì¶œë ¥3
 		System.out.println((A*B)%C);
-		// Ãâ·Â4
+		// ì¶œë ¥4
 		System.out.println(((A%C)*(B%C))%C);
 	}
 }

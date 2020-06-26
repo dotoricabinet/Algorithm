@@ -2,7 +2,7 @@ package baekjoon.arithmetic;
 
 public class Q17172_main {
 
-	// ÀÔÃâ·Â°ú »çÄ¢¿¬»ê_°³
+	// ìž…ì¶œë ¥ê³¼ ì‚¬ì¹™ì—°ì‚°_ê°œ
 	public static void main(String[] args) {
 		System.out.print("|\\_/|\n");
 		System.out.print("|q p|\t/}\n");
